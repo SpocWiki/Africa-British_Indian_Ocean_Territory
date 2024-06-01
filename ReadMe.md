@@ -19,7 +19,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- IO
 - IOT
 - British Indian Ocean Territory
 - Territorio Británico del Océano Índico
