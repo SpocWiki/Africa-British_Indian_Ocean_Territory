@@ -121,11 +121,4 @@ Continent :: [[Africa]]
 
 
 
-## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Africa/Africa~East/British_Indian_Ocean_Territory|British_Indian_Ocean_Territory]] 
-- [[../../../../../_public/geo/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.public|British_Indian_Ocean_Territory.public]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.internal|British_Indian_Ocean_Territory.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.protect|British_Indian_Ocean_Territory.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.private|British_Indian_Ocean_Territory.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.personal|British_Indian_Ocean_Territory.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.secret|British_Indian_Ocean_Territory.secret]] 
+
